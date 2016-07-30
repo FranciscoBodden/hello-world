@@ -22,7 +22,7 @@ namespace PruebaGit1
         public static void hola ()
         {
 
-            Console.WriteLine("holdsfsd");
+            Console.WriteLine("hola mundo");
         }
     }
 }
