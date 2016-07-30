@@ -1,6 +1,6 @@
 ﻿namespace PruebaGit1
 {
-    partial class Loginn
+    partial class Login
     {
         /// <summary>
         /// Variable del diseñador necesaria.
