@@ -16,13 +16,13 @@ namespace PruebaGit1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Loginn());
+            Application.Run(new Form1());
         }
 
         public static void hola ()
         {
 
-            Console.WriteLine("holaaaaaa");
+            Console.WriteLine("holaaa");
         }
     }
 }
