@@ -124,7 +124,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(75, 192);
+            this.label6.Location = new System.Drawing.Point(86, 192);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(66, 13);
             this.label6.TabIndex = 10;
@@ -134,14 +134,14 @@
             // 
             this.richTextBox1.Location = new System.Drawing.Point(15, 217);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(204, 96);
+            this.richTextBox1.Size = new System.Drawing.Size(231, 96);
             this.richTextBox1.TabIndex = 11;
             this.richTextBox1.Text = "";
             // 
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(313, 192);
+            this.label7.Location = new System.Drawing.Point(332, 192);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(90, 13);
             this.label7.TabIndex = 12;
@@ -151,7 +151,7 @@
             // 
             this.richTextBox2.Location = new System.Drawing.Point(279, 217);
             this.richTextBox2.Name = "richTextBox2";
-            this.richTextBox2.Size = new System.Drawing.Size(204, 96);
+            this.richTextBox2.Size = new System.Drawing.Size(245, 96);
             this.richTextBox2.TabIndex = 13;
             this.richTextBox2.Text = "";
             this.richTextBox2.TextChanged += new System.EventHandler(this.richTextBox2_TextChanged);
@@ -221,6 +221,7 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
             this.Name = "Medicamento";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Medicamento";
             this.ResumeLayout(false);
             this.PerformLayout();
