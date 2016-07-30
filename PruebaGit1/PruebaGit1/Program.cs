@@ -18,5 +18,11 @@ namespace PruebaGit1
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+
+        public static void hola ()
+        {
+
+            Console.WriteLine("holdsfsd");
+        }
     }
 }
