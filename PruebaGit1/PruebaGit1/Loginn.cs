@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PruebaGit1
 {
-    public partial class Login : Form
+    public partial class Loginn : Form
     {
-        public Login()
+        public Loginn()
         {
             InitializeComponent();
         }
