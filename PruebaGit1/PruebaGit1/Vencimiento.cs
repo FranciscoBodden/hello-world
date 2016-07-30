@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace PruebaGit1
 {
-    public partial class Reporte : Form
+    public partial class Vencimiento : Form
     {
-        public Reporte()
+        public Vencimiento()
         {
             InitializeComponent();
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void chart1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
